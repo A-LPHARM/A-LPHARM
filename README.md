@@ -1,42 +1,27 @@
 ### Hi there 👋
 
-Welcome to my space. My name is Emeka Uzowulu, a DevOps Cloud Engineer and a Cloud Native enthusiast, also specializing in Technical Writing.
+Welcome to my space. My name is Emeka Uzowulu, ✨ a DevOps Cloud Engineer and a Cloud Native enthusiast, also specializing in Technical Writing.
 
-🔭 I am currently working on various DevOps projects and exploring new open-source projects to contribute to and collaborate with others. Feel free to explore my projects.
+🌞 I'm always eager to learn and explore new technologies.
 
-📫 Always available to chat.
+👯 Feel free to reach out if you'd like to collaborate on cloud and DevOps projects.
 
-## Contact
+📫 You can always reach me through any of these channels:
 
-📧 Email: Hemeka2009@gmail.com
+[<img src='https://cdn-icons-png.flaticon.com/512/281/281786.png' width='32' title='Email Me!'>](mailto:Hemeka2009@gmail.com)
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' width='32' title='DM Me on Twitter'>](https://twitter.com/hendrezzco)
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='32' title='Connect with Me on LinkedIn'>](https://www.linkedin.com/in/emeka-henry-uzowulu-38900088/)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/emeka-henry-uzowulu-38900088/)
+### Check out my writings and thoughts on:
 
-🔗 [Twitter](https://twitter.com/hendrezzco)
+- [Hashnode](https://hashnode.com/@Henriksin)
+- [Dev.to](https://dev.to/hendrezzco)
+- [Medium](https://medium.com/@heneka2009)
 
-🔗 [Hashnode](https://hashnode.com/@Henriksin)
-
-🔗 [Dev.to](https://dev.to/hendrezzco)
-
-🔗 [Medium](https://medium.com/@heneka2009)
 
 ## Technologies
 
-- Kubernetes 
-- Docker 
-- Terraform
-- Ansible 
-- Bash
-- MongoDB
-- PostgreSQL
-- MySQL
-- VSCode
-- Linux
-- Nginx
-- AWS 
-- Prometheus 
-- Grafana
-- Jenkins
+Kubernetes, Docker, Terraform, Ansible, Bash, PostgreSQL, MySQL, Prometheus, Grafana, Jenkins
 
 
 <!--
