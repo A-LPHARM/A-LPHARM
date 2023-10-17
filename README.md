@@ -1,29 +1,31 @@
 ### Hi there 👋
 
+Welcome to my space. My name is Emeka Uzowulu, a DevOps Cloud Engineer and a Cloud Native enthusiast, also specializing in Technical Writing.
 
-# About Me
+🔭 I am currently working on various DevOps projects and exploring new open-source projects to contribute to and collaborate with others. Feel free to explore my projects.
 
-Hi there! 👋
+📫 Always available to chat.
 
-Welcome to my Space. My name is Emeka Uzowulu, a DevOps Cloud Engineer and a Cloud Native enthusiast, as well as a Technical Writer.
+## Contact
 
-I am currently working on anything related to DevOps and constantly exploring new open-source projects to contribute to and collaborate with others. 
-Feel free to take a look at my projects. 
-I'm always available for a chat.
+📧 Email: Hemeka2009@gmail.com
 
-**Contact:**
-- Email: [Hemeka2009@gmail.com](mailto:Hemeka2009@gmail.com)
-- LinkedIn: [Emeka Henry Uzowulu](https://www.linkedin.com/in/emeka-henry-uzowulu-38900088/)
-- Twitter: [Hendrezzco](https://twitter.com/hendrezzco)
-- Hashnode: [Henriksin](https://hashnode.com/@Henriksin)
-- Dev.to: [Hendrezzco](https://dev.to/hendrezzco)
-- Medium: [Heneka2009](https://medium.com/@heneka2009)
+🔗 [LinkedIn](https://www.linkedin.com/in/emeka-henry-uzowulu-38900088/)
 
-**Technologies:**
-- Kubernetes
-- Docker
+🔗 [Twitter](https://twitter.com/hendrezzco)
+
+🔗 [Hashnode](https://hashnode.com/@Henriksin)
+
+🔗 [Dev.to](https://dev.to/hendrezzco)
+
+🔗 [Medium](https://medium.com/@heneka2009)
+
+## Technologies
+
+- Kubernetes 
+- Docker 
 - Terraform
-- Ansible
+- Ansible 
 - Bash
 - MongoDB
 - PostgreSQL
@@ -31,9 +33,11 @@ I'm always available for a chat.
 - VSCode
 - Linux
 - Nginx
-- AWS
-- Prometheus
+- AWS 
+- Prometheus 
 - Grafana
+- Jenkins
+
 
 <!--
 **A-LPHARM/A-LPHARM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
