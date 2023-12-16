@@ -14,7 +14,7 @@ Welcome to my space. My name is Emeka Uzowulu, ✨ a DevOps Cloud Engineer and a
 
 ### Check out my writings and thoughts on:
 
-- [Hashnode](https://hashnode.com/@Henriksin)
+- [Hashnode](https://alpharm.hashnode.dev/)
 - [Dev.to](https://dev.to/hendrezzco)
 - [Medium](https://medium.com/@heneka2009)
 
